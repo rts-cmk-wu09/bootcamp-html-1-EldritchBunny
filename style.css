@@ -24,6 +24,11 @@ header {
   justify-content: center;
 }
 
+img {
+  width: 100px;
+  max-width: 600px;
+  height: auto;
+}
 li {
   list-style: none;
 }
